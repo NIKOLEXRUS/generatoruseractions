@@ -19,15 +19,18 @@ public class User {
         return id;
     }
 
-    public String getLastName() {
+    public String getLastName() 
+    {
         return lastName;
     }
 
-    public String getFirstName() {
+    public String getFirstName() 
+    {
         return firstName;
     }
 
-    public String getMiddleName() {
+    public String getMiddleName() 
+    {
         return middleName;
     }
 }
